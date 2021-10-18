@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/menu_activity_item_sort_by"
+        android:icon="@drawable/ic_baseline_sort_24"
+        android:checkable="true"
+        android:enabled="true"
+        android:title="sort_by"
+        android:visible="true"
+        app:showAsAction="always"
+        >
+        <menu>
+            <item
+                android:title="Filtre par date"
+                android:id="@+id/filter_by_date_item"
+                ></item>
+            <item
+                android:title="Filtre par lieu"
+                android:id="@+id/filter_by_place_item">
+            </item>
+        </menu>
+    </item>
+
+</menu>

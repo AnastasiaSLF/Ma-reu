@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mareu</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //
+    <string name="createMeetingTitle">Nouvelle réunion</string>
+    <string name="infoAddSubjectToMeeting">Vous devez renseigner le sujet de la réunion</string>
+    <string name="infoAddDateTimeToMeeting">Vous devez renseigner la date et l\'heure de la réunion</string>
+    <string name="infoMeetingRoom">La salle choisi n\'est pas disponible à cette heure</string>
+    <string name="contributorAddWithSuccess">Participant ajouté !</string>
+    <string name="mailNotValide">Adresse Email invalide</string>
+    <string name="choiceConfirmed">Choix validé !</string>
+    <string name="item_filter_match_room_name">Matches the selected room name</string>
+    <string name="date_filter">Filter by date</string>
+    <string name="room_filter">Filter by room name</string>
+    <string name="select_filter">Choices filter</string>
+</resources>
